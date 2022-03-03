@@ -1,2 +1,2 @@
-[webservers]
+[testservers]
 10.0.2.6 ansible_user=sheetalshendage
